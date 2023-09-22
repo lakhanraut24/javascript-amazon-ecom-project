@@ -1,7 +1,7 @@
 /*   this is the data structure : because it structure or organize the data(information about product)
  and this represents a list of products, so we usually use a combination of objects and arrays to create a data-structure in javascript*/
 
- const products = [
+ export const products = [
   {
     id: "e43638ce-6aa0-4b85-b27f-e1d07eb678c6",
     image: "images/products/athletic-cotton-socks-6-pairs.jpg",
